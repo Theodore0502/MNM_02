@@ -2,4 +2,4 @@
 ### 22810310248
 ## Result
 
-![Pic](./Photos/TinTuc.png)
+![Pic](./Photos/TinTucChinh.png)
